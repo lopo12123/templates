@@ -1,3 +1,1 @@
-### 各种project模板
-
-vue3-ts
+[vue3-ts](/https://github.com/lopo12123/templates/releases/download/vue3-ts/vue3-ts.7z)
